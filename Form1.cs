@@ -26,7 +26,7 @@ namespace ProjetIP
         //Procédure qui affiche les propriétés de l'ip saisie
         public void afficheParam(ref int cidr)
         {
-            if (cidr > 24)//on effectue une condition imbriqué car l'affichage des caractéristique de l'ip changeras en fonction du CIDR
+            if (cidr > 24)//on effectue une condition imbriqué car l'affichage des caractéristique de l'ip changeras en fonction du CIDR ****
             {
                 lbMasque.Text = "Masque : 255.255.255." + masqueReseau(cidr);
                 lbReseau.Text = "Adresse Reseau : " + tbIP1.Text + "." + tbIP2.Text + "." + tbIP3.Text + "." + ipReseau(Convert.ToInt16(tbIP4.Text), cidr);
