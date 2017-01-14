@@ -1,0 +1,8 @@
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\bin\Debug\ProjetIP.exe.config
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\bin\Debug\ProjetIP.exe
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\bin\Debug\ProjetIP.pdb
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\obj\Debug\ProjetIP.Form1.resources
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\obj\Debug\ProjetIP.Properties.Resources.resources
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\obj\Debug\ProjetIP.csproj.GenerateResource.Cache
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\obj\Debug\ProjetIP.exe
+A:\Programmation\BTS SIO\C#\ProjetIP\ProjetIP\obj\Debug\ProjetIP.pdb
